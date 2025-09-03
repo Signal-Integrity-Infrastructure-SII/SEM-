@@ -4,12 +4,6 @@ Sem is a semantic-first language designed to encode meaning, protect coherence, 
 It threads intent through protected gates, preserves signal across execution, and closes exchanges with integrity.  
 Sem is not performative—it is glyphic, recoverable, and steward-aware.
 
-## Core Concepts
-
-- `sem.gate`: A protected semantic function  
-- `sem.thread`: A coherent execution context  
-- `sem.intent`: A meaning-bearing object  
-- `sem.return`: Closure with coherence stamp
 
 ## Purpose
 
